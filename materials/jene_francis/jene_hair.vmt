@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "jene_francis/jene_hair"
+	"$nocull" 1
+	"$nodecal" 1
+	"$bumpmap" "jene_francis/normal"
+	"$lightwarptexture" "jene_francis/basewarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+}
