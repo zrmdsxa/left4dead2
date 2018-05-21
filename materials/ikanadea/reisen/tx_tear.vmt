@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "IKanadeA/Reisen/transparent"
+	$nocull 1
+	$nodecal 1
+	
+	$translucent 1
+}

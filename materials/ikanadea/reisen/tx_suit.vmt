@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "IKanadeA/Reisen/tx_suit"
+	
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "IKanadeA/Reisen/phong_exp"
+	"$phongfresnelranges"	"[.01 .01 2]"
+
+	"$lightwarptexture" "IKanadeA/Reisen/light"
+
+	$nocull 1
+	$nodecal 1
+}

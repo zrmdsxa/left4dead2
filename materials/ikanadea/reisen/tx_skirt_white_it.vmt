@@ -1,0 +1,11 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+	"$basetexture" "IKanadeA/Reisen/tx_skirt_white"
+	$nocull 1	
+	$nodecal 1
+                "$lightwarptexture" "IKanadeA/Reisen/light"
+                }
+}
