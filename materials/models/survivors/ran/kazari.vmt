@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\survivors\ran\kazari"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\survivors\ran\basewarp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
