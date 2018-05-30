@@ -1,0 +1,9 @@
+<html>
+		<head>
+				<title>Awoo MOTD</title>
+		</head>
+
+		<body>
+				<img src="http://zrmdsxa.web.fc2.com/image/toomanyawoo.png" width="100%" />
+		</body>
+</html> 
