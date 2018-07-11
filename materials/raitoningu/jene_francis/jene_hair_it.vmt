@@ -1,0 +1,21 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "raitoningu/jene_francis/jene_hair"
+	"$bumpmap" "raitoningu/jene_francis/normal"
+	"$nodecal" 1
+	"$ambientocclusion" "0"
+	"$nocull" 1
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongexponent" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$phongwarptexture" "raitoningu/jene_francis/shader"
+	"$lightwarptexture" "raitoningu/jene_francis/toon_all"
+}
+}
+
+
