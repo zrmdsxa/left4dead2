@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mod/ump9/hair2"
+	"$bumpmap" "mod/ump9\normal"
+	"$nocull" 1
+	"$nodecal" "1"
+
+	"$lightwarptexture" "mod/ump9/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".01"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+}
