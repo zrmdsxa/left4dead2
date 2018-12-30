@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "peaknessyang/g41/dengdeng_h_band"
+	"$nocull" 1
+	"$nodecal" 1
+}

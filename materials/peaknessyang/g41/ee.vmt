@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "peaknessyang/g41/ee"
+	"$bumpmap" "peaknessyang/g41/normal"
+
+	"$lightwarptexture" "peaknessyang/g41/hairwarp"
+
+        "$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "peaknessyang/g41/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+	"$nocull" 1
+	"$nodecal" 1
+}
