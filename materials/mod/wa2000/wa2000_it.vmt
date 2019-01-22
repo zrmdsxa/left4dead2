@@ -1,0 +1,20 @@
+"patch"
+{
+
+	"include" "materials/models/survivors/survivors_it_shared.vmt"
+
+	"insert"
+{
+
+	$basetexture "mod/wa2000/WA2000 (Instance)_(-61656)"
+    "$bumpmap" "mod/wa2000/normal"
+	"$lightwarptexture" "mod/wa2000/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+}

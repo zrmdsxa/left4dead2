@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "mod/g11/anya_face_cgss_Skin (Instance)_(-62384)"
+    "$bumpmap" "mod/g11/normal"
+	"$lightwarptexture" "mod/g11/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+}
