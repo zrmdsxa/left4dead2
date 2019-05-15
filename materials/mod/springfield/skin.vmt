@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "mod/springfield/LOhighpoly_v2_skin_white"
+	"$lightwarptexture" "mod/springfield/toon"
+	"$nodecal" "1"
+}

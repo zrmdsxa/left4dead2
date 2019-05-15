@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "mod/springfield/face014_skin_002_lwhite"
+	"$lightwarptexture" "mod/springfield/toon"
+	"$nodecal" "1"
+}
