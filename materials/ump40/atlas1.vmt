@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	  $basetexture "ump40/atlas1"
+            "$bumpmap" "ump40/normal"
+	"$lightwarptexture" "ump40/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+}
