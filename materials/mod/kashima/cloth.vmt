@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "mod/kashima/body"
+			"$nodecal" "1"
+
+}
