@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+$halflambert 0
+$phong 1
+$phongtint "[.62 .72 1]"
+$phongfresnelranges "[0.75 0.25 1]"
+$phongboost "0.6"
+$detail "models/infected/common/l4d2/detail/ci_detail_dirt"
+$detailframe 0
+$detailscale 2
+$detailblendfactor 0.55
+$allowdiffusemodulation 0
+}
