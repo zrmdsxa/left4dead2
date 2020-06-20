@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "nnk/peko/eye2"   
+        "$lightwarptexture" "nnk/peko/basewarp" 
+        "$nocull" 1
+	"$nodecal" 1
+}
