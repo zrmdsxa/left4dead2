@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture" "IKanadeA\Fubuki_h\hbk"
+	"$bumpmap" "IKanadeA\Fubuki_h\normal"
+	"$lightwarptexture" "IKanadeA\Fubuki_h\shader\basewarp"
+	$alphatest 1
+	$allowalphatocoverage 1
+	$nocull 1
+	$nodecal 1
+}

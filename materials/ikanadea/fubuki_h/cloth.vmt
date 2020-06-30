@@ -1,0 +1,13 @@
+patch
+{
+	include "materials\IKanadeA\Fubuki_h\shader.vmt"
+	insert
+	{
+		"$basetexture" "IKanadeA\Fubuki_h\hbk"
+
+		"$detail" "IKanadeA\Fubuki_h\black"
+		"$detailscale" "1"
+		"$detailblendfactor" ".3"
+		"$detailblendmode" "5"
+	}
+}

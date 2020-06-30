@@ -1,0 +1,8 @@
+patch
+{
+	include "materials\IKanadeA\Fubuki_h\it.vmt"
+	insert
+	{
+		$basetexture "IKanadeA/Fubuki_h/hbk"
+	}
+}

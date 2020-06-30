@@ -1,0 +1,13 @@
+patch
+{
+	include "materials\IKanadeA\Fubuki_h\shader.vmt"
+	insert
+	{
+		"$basetexture" "IKanadeA\Fubuki_h\hbk"
+	}
+	replace
+	{
+		"$lightwarptexture" "IKanadeA\Fubuki_h\shader\basewarp"
+		"$phongboost"	".5"
+	}
+}
