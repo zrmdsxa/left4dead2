@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "yue/qiaoke/choco_faceparts"    
+        "$lightwarptexture" "yue/qiaoke/basewarp"
+        "$bumpmap" "yue/qiaoke/normal"
+        "$nocull" 1
+	"$nodecal" 1
+$alphatest 1
+$alphatestreference 0.7
+$translucent 1
+$ambientocclusion 0
+}
