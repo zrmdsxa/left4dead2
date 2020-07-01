@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "FlandreScarlet/SNQX/HK416/USP2"
+        "$lightwarptexture" "FlandreScarlet/SNQX/HK416/basewarp"
+        "$bumpmap" "FlandreScarlet/SNQX/HK416/normal"
+$phong 1
+$alpha 0
+$phongboost 3
+$phongexponent 1
+$phongfresnelranges "[.1 .4 2]"
+
+$detail "models/infected/hunter/hunter_01_detail.vtf"
+$detailscale "1.5"
+$detailblendfactor .001 
+$detailblendmode 0
+$detailAmount 0
+Proxies
+{
+BloodyHands
+{
+resultVar $detailAmount
+}
+Equals
+{
+srcVar1 $detailAmount
+resultVar $detailblendfactor
+}
+}
+}
